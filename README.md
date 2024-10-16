@@ -19,11 +19,12 @@ ________________________________________________________________________________
 Requirements:
 
 A. XAMPP (or any local server) with:
-B. PHP version 7.x or above
-C. MySQL
-D. Apache Server
-E. MySQL Database with a table structure as outlined in the tutorial.
-F. Web Browser to interact with the CRUD application.
+B. PHP version 7.x or above, MySQL, Apache Server
+C. MySQL Database with a table structure as outlined in the tutorial.
+D. Web Browser to interact with the CRUD application.
+
+__________________________________________________________________________________________________________________________________________________________________________________________
+
 
 
 

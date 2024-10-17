@@ -25,6 +25,21 @@ D. Web Browser to interact with the CRUD application.
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
+How to Use:
+
+A. Insert New Records: Use the form on the homepage to add a new entry.
+B. View Records: The application will list all records from the database.
+C. Update Records: Click on 'Edit' next to a record to update it.
+D. Delete Records: Click on 'Delete' next to a record to remove it from the database.
+
+__________________________________________________________________________________________________________________________________________________________________________________________
+
+Technologies Used:
+
+A. PHP (for backend logic)
+B. MySQLi (for database interactions)
+C. HTML/CSS (for front-end structure)
+D. JavaScript (for form validation or other client-side interactions)
 
 
 
